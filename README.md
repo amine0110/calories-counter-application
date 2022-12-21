@@ -1,1 +1,1 @@
-# calories-counter-application
+# Calories Counter Application
